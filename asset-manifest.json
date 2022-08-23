@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/carvel/static/css/main.c7eea59f.css",
+    "main.js": "/carvel/static/js/main.aff78bde.js",
+    "static/js/787.a3e559c0.chunk.js": "/carvel/static/js/787.a3e559c0.chunk.js",
+    "index.html": "/carvel/index.html",
+    "main.c7eea59f.css.map": "/carvel/static/css/main.c7eea59f.css.map",
+    "main.aff78bde.js.map": "/carvel/static/js/main.aff78bde.js.map",
+    "787.a3e559c0.chunk.js.map": "/carvel/static/js/787.a3e559c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7eea59f.css",
+    "static/js/main.aff78bde.js"
+  ]
+}
