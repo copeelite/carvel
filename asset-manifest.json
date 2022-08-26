@@ -1,15 +1,15 @@
 {
-  "files": {
-    "main.css": "/carvel/static/css/main.0a196a5b.css",
-    "main.js": "/carvel/static/js/main.79e494d0.js",
-    "static/js/787.a3e559c0.chunk.js": "/carvel/static/js/787.a3e559c0.chunk.js",
-    "index.html": "/carvel/index.html",
-    "main.0a196a5b.css.map": "/carvel/static/css/main.0a196a5b.css.map",
-    "main.79e494d0.js.map": "/carvel/static/js/main.79e494d0.js.map",
-    "787.a3e559c0.chunk.js.map": "/carvel/static/js/787.a3e559c0.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.0a196a5b.css",
-    "static/js/main.79e494d0.js"
-  ]
+  "main.css": "/carvel/static/css/main.5ca7c8f5.chunk.css",
+  "main.js": "/carvel/static/js/main.b1ef4f8e.chunk.js",
+  "main.js.map": "/carvel/static/js/main.b1ef4f8e.chunk.js.map",
+  "static/js/1.b3be8a9b.chunk.js": "/carvel/static/js/1.b3be8a9b.chunk.js",
+  "static/js/1.b3be8a9b.chunk.js.map": "/carvel/static/js/1.b3be8a9b.chunk.js.map",
+  "static/js/2.7ee20851.chunk.js": "/carvel/static/js/2.7ee20851.chunk.js",
+  "static/js/2.7ee20851.chunk.js.map": "/carvel/static/js/2.7ee20851.chunk.js.map",
+  "runtime~main.js": "/carvel/static/js/runtime~main.2f6e06a8.js",
+  "runtime~main.js.map": "/carvel/static/js/runtime~main.2f6e06a8.js.map",
+  "static/css/main.5ca7c8f5.chunk.css.map": "/carvel/static/css/main.5ca7c8f5.chunk.css.map",
+  "index.html": "/carvel/index.html",
+  "precache-manifest.950b7f704c168d83dd0c1d4f7268c105.js": "/carvel/precache-manifest.950b7f704c168d83dd0c1d4f7268c105.js",
+  "service-worker.js": "/carvel/service-worker.js"
 }
